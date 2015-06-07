@@ -7,7 +7,7 @@ def time_priod(time=None):
 		time = datetime.datetime.today()
 	datetmp = datetime.datetime(time.year, time.month, time.day, time.hour, 0, 0)
 	#現在時刻から、そのピリオドの開始時刻を求める
-	begintime = ((((datetmp.hour + 1) % 24) / 6)* 6 - 1) % 24
+	begintime = (((datetmp.hour + 1) / 4) * 4 - 1) % 24
 	#print begintime
 	begin = datetime.datetime(time.year, time.month, time.day, begintime, 0, 0)
 	end = datetime.datetime(time.year, time.month, time.day, (begintime + 4) % 24 , 0, 0)
