@@ -2,7 +2,7 @@
 *.json
 
 #log directory
-/log
+/src/log
 
 # Windows image file caches
 Thumbs.db
