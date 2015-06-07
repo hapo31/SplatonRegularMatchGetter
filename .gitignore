@@ -1,3 +1,9 @@
+#Resouce files
+*.json
+
+#log directory
+/log
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

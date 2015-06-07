@@ -1,0 +1,176 @@
+[
+    {
+        "stages": [
+            {
+                "id": "d7bf0ca4466e980f994ef7b32faeb71d80611a28c5b9feef84a00e3c4c9d7bc1", 
+                "name": "ハコフグ倉庫"
+            }, 
+            {
+                "id": "b8067d2839476ec39072e371b4c59fa85454cdb618515af080ca6080772f3264", 
+                "name": "ホッケふ頭"
+            }
+        ], 
+        "datetime_term_end": "2015-06-07 19:00", 
+        "datetime_term_begin": "2015-06-07 15:00", 
+        "ranking": [
+            {
+                "gear_shoes_id": "cdd188a7d326b85d31d3bfaf5530e6f08211098232c6a0a877b16800c5954aca", 
+                "mii_name": "かずき", 
+                "gear_clothes_id": "c83577ea1d60e73e69db89fd90520d0a87175f4392371190e1f93a4af80f84ea", 
+                "weapon_id": "c9f7cead9ee5ada35437d7c2ea8ddae6ca1dacfc6c9b01d5939cfc0ff59fe0ea", 
+                "gear_head_id": "d035475fe16592a20e1267e5bc3b5e05f2e1a9580b77520f8ad6635723ae8e31"
+            }, 
+            {
+                "gear_shoes_id": "f99d4194b107bc34a6c98afb39adeebff7f65bfe40fb4f0783fe7affd8a9c0d9", 
+                "mii_name": "はねいり", 
+                "gear_clothes_id": "c83577ea1d60e73e69db89fd90520d0a87175f4392371190e1f93a4af80f84ea", 
+                "weapon_id": "234817cbabd95f27d60fb213122c1b98ef41a13457aa6b57a2e7dbf5f2fb8c71", 
+                "gear_head_id": "65d039183dba341c8a75df7d14e62b07057cacb9847b8bda97e918c0b3b9f551"
+            }, 
+            {
+                "gear_shoes_id": "923a5fe46317faa0ba58c4d639cd7c4329de2d2782a87d4832b202c66032fa45", 
+                "mii_name": "ゆっくり?", 
+                "gear_clothes_id": "40d3cc1ee3f31340b2be2042082b7eebb7be8ca3a8d7d16d2862b75e03a45948", 
+                "weapon_id": "de63b9c7c5f9f5ab76456328b11f2f6ac8f17c7c91ff402727625fc46d0a3055", 
+                "gear_head_id": "268e851b58703aeaec8b770afdfa2c08c7d8b647fbf5222fc69f29e5b33b5757"
+            }, 
+            {
+                "mii_name": "owt"
+            }, 
+            {
+                "mii_name": "merluza"
+            }, 
+            {
+                "mii_name": "ごまだれ"
+            }, 
+            {
+                "mii_name": "ホウレンソウ"
+            }, 
+            {
+                "mii_name": "KAGE-25"
+            }, 
+            {
+                "mii_name": "ただっち"
+            }, 
+            {
+                "mii_name": "さしみ"
+            }
+        ]
+    }, 
+    {
+        "stages": [
+            {
+                "id": "eefffc33ee1956b7b70e250d5835aa67be9152d42bc76aa8874987ebdfc19944", 
+                "name": "デカライン高架下"
+            }, 
+            {
+                "id": "8c69b7c9a81369b5cfd22adbf41c13a8df01969ff3d0e531a8bcb042156bc549", 
+                "name": "アロワナモール"
+            }
+        ], 
+        "datetime_term_end": "2015-06-07 15:00", 
+        "datetime_term_begin": "2015-06-07 11:00", 
+        "ranking": [
+            {
+                "gear_shoes_id": "d326988362e2d1c93c1986a727a6cb874bee724f31c559acfab8e4bee48328a8", 
+                "mii_name": "yoshiya", 
+                "gear_clothes_id": "b71601b657ab9ca441e63de53939fcde1ab63aedd3085cf95819bf4166a12569", 
+                "weapon_id": "c9f7cead9ee5ada35437d7c2ea8ddae6ca1dacfc6c9b01d5939cfc0ff59fe0ea", 
+                "gear_head_id": "2448dc6d11681c13cb303dad7e92a143dd86935d4273a0b812a97c1b9c330539"
+            }, 
+            {
+                "gear_shoes_id": "844497099985728f3d5a0c4a6831799d1a2bf8b2ba7ed2ca759fa0c2f99c72a3", 
+                "mii_name": "てつお", 
+                "gear_clothes_id": "3edf9fce0513ebc84284859e9ca87952bc15edf4287cac261bfe35b75cc50a86", 
+                "weapon_id": "de63b9c7c5f9f5ab76456328b11f2f6ac8f17c7c91ff402727625fc46d0a3055", 
+                "gear_head_id": "11f0db0f03312c305380ffef6aaa82e4c06a48833e83677b6367b08db1269b3b"
+            }, 
+            {
+                "gear_shoes_id": "e3e5c2e4e56a0e990d3356bbd01d27de85d49face743d3d74b3254284410ab85", 
+                "mii_name": "ししゃもん", 
+                "gear_clothes_id": "c83577ea1d60e73e69db89fd90520d0a87175f4392371190e1f93a4af80f84ea", 
+                "weapon_id": "ad5ce637d338080d1ce2c2703370f8616b4499eca84ecca24136b848de967331", 
+                "gear_head_id": "2448dc6d11681c13cb303dad7e92a143dd86935d4273a0b812a97c1b9c330539"
+            }, 
+            {
+                "mii_name": "クリス"
+            }, 
+            {
+                "mii_name": "くぅ"
+            }, 
+            {
+                "mii_name": "take"
+            }, 
+            {
+                "mii_name": "チャオリア"
+            }, 
+            {
+                "mii_name": "ウィンガル"
+            }, 
+            {
+                "mii_name": "あんか"
+            }, 
+            {
+                "mii_name": "かつみ_PKMN"
+            }
+        ]
+    }, 
+    {
+        "stages": [
+            {
+                "id": "9a1736540c3fde7e409cb9c7e333441157d88dfe8ce92bc6aafcb9f79c56cb3d", 
+                "name": "Ｂバスパーク"
+            }, 
+            {
+                "id": "b8067d2839476ec39072e371b4c59fa85454cdb618515af080ca6080772f3264", 
+                "name": "ホッケふ頭"
+            }
+        ], 
+        "datetime_term_end": "2015-06-07 11:00", 
+        "datetime_term_begin": "2015-06-07 07:00", 
+        "ranking": [
+            {
+                "gear_shoes_id": "d326988362e2d1c93c1986a727a6cb874bee724f31c559acfab8e4bee48328a8", 
+                "mii_name": "とらふぃ", 
+                "gear_clothes_id": "d1f640d7b5158874aa54fa0421c75ff13d57e14546499f4278066b5650a87072", 
+                "weapon_id": "24216c6e64d6d4a97cb76c642233b678a7d663a266a6501714c58094c3727766", 
+                "gear_head_id": "e3d2e3f08a8bfd2a3a1f0cc4cbc37e6457d28f01548fdda12e41beaf5e856a41"
+            }, 
+            {
+                "gear_shoes_id": "51b955dd9f467b8bd70902397fa24c31db6316b5de900c61bc829ec410dc37f6", 
+                "mii_name": "(°_°;)", 
+                "gear_clothes_id": "e0bd72a56c0879f8925732acc9271b3dafaa2d485981a90dc64469de9906e374", 
+                "weapon_id": "ff801fb34b6acf0ccb763f2f98c98553ce5d298a144855b36ffed89730e358d2", 
+                "gear_head_id": "5d8552566fcdaebe70bb6b5b8589f473606b74356349389f90f07add2e7c193d"
+            }, 
+            {
+                "gear_shoes_id": "d326988362e2d1c93c1986a727a6cb874bee724f31c559acfab8e4bee48328a8", 
+                "mii_name": "ぽんすこん", 
+                "gear_clothes_id": "167d8d2764f2945f6d78f9d124495e3d6308d9f621c50a0f83c6672be6cd6d4c", 
+                "weapon_id": "ff801fb34b6acf0ccb763f2f98c98553ce5d298a144855b36ffed89730e358d2", 
+                "gear_head_id": "10ef4ab3787fe826d4f2aaa4d3fd73b3800ee2f37b48ccaaf96b3fb9435d9aaf"
+            }, 
+            {
+                "mii_name": "KEN"
+            }, 
+            {
+                "mii_name": "みこと"
+            }, 
+            {
+                "mii_name": "PR"
+            }, 
+            {
+                "mii_name": "3ねん3くみ8さ"
+            }, 
+            {
+                "mii_name": "Elfeel"
+            }, 
+            {
+                "mii_name": "いちご"
+            }, 
+            {
+                "mii_name": "キオ"
+            }
+        ]
+    }
+]
