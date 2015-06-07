@@ -36,10 +36,10 @@ if __name__ == '__main__':
 	print a.stagenames[0].encode("utf-8")
 	print a.stagenames[1].encode("utf-8")
 
-	begin.replace(':', '-')
-	end.replace(':', '-')
+	begin = begin.replace(':', '-')
+	end = end.replace(':', '-')
 
 	ww = open(config.logdir + begin + "_" + end + ".json", "w")
 	enc = json.dumps(sinfo.json(), indent=4, ensure_ascii=False)
-	ww.write(enc)
+	ww.write(enc.encode('utf-8'))
 
