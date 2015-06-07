@@ -1,5 +1,5 @@
 # SplatonRegularMatchGetter
-レギュラーマッチの情報を取得するモジュールです
+レギュラーマッチの情報を取得するPythonモジュールです
 
 Splatonになってるのは意図的な検索避けみたいなものです。
 
