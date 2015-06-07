@@ -6,11 +6,6 @@ Splatonになってるのは意図的な検索避けみたいなものです。
 Pythonの練習も兼ねてます。あまり期待はしないであげてください。  
 
 [使い方]  
-python stageinfo  
-で、log/に現在のステージ情報のjsonを保存します。  
-import stageinfo  
-url = [Splatoonのステージ情報のjsonがかえってくるurl]   
-j = GetStageInfo(url)  
-print j.json()  
-とかで、ステージ情報のjsonが出力されると思います。  
-あとはソース直接見てもらえれば分かるかと思いますのであとはよろしくお願いします。
+python stageinfo    
+で、log/に現在のステージ情報のjsonを保存します。   
+あとはソース直接見てもらえれば分かるかと思いますので、よろしくお願いします。
