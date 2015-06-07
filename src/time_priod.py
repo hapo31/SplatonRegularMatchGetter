@@ -1,16 +1,18 @@
 # -*- coding: utf-8 -*--
 
 import datetime
+import config
 
 def time_priod(time=None):
+	schedule = config.change_stage_schedule_hours
 	if time is None:
 		time = datetime.datetime.today()
 	datetmp = datetime.datetime(time.year, time.month, time.day, time.hour, 0, 0)
 	#現在時刻から、そのピリオドの開始時刻を求める
-	begintime = (((datetmp.hour + 1) / 4) * 4 - 1) % 24
+	begintime = (((datetmp.hour + 1) / schedule) * schedule - 1) % 24
 	#print begintime
 	begin = datetime.datetime(time.year, time.month, time.day, begintime, 0, 0)
-	end = datetime.datetime(time.year, time.month, time.day, (begintime + 4) % 24 , 0, 0)
+	end = datetime.datetime(time.year, time.month, time.day, (begintime + schedule) % 24 , 0, 0)
 
 	return [begin, end]
 
