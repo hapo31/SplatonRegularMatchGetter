@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*--
 
 import config
-import urllib2
+import urllib.request
 import json
 import codecs
 
@@ -10,7 +10,7 @@ class GetStageInfo:
 		self.json_ = self.openurl(url)
 
 	def openurl(self, url):
-		return json.loads(urllib2.urlopen(url).read(), "utf-8")
+		return json.loads(urllib.request.urlopen(url).read(), "utf-8")
 
 	def json(self):
 		return self.json_
@@ -22,8 +22,6 @@ class StageInfo:
 		self.times = { 'begin':json_[0]['datetime_term_begin'], 'end':json_[0]['datetime_term_end'] }
 		self.stagenames = ( json_[0]['stages'][0]['name'], json_[0]['stages'][1]['name'])
 
-
-
 if __name__ == '__main__':
 
 	sinfo = GetStageInfo(config.stageinfojson_url)
@@ -32,9 +30,9 @@ if __name__ == '__main__':
 	begin = a.times["begin"]
 	end = a.times["end"]
 
-	print a.times["begin"] + " ~ " + a.times["end"]
-	print a.stagenames[0].encode("utf-8")
-	print a.stagenames[1].encode("utf-8")
+	print(a.times["begin"] + " ~ " + a.times["end"])
+	print(a.stagenames[0].encode("utf-8"))
+	print(a.stagenames[1].encode("utf-8"))
 
 	begin = begin.replace(':', '-')
 	end = end.replace(':', '-')
